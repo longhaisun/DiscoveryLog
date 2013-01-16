@@ -1,6 +1,6 @@
 package com.discoveryLog.client.callback;
 
-import org.apache.thrift.async.AsyncMethodCallback; 
+import org.apache.thrift.async.AsyncMethodCallback;
 
 public class LogCallback implements AsyncMethodCallback { 
    Object response = null; 

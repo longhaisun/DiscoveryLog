@@ -1,6 +1,7 @@
 package com.discoveryLog.service.impl;
 
 import org.apache.thrift.TException;
+
 import com.discoveryLog.service.Log;
 public class LogServiceImpl implements Log.Iface { 
 @Override
